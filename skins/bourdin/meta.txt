@@ -1,0 +1,12 @@
+title=Bourdin
+scheme=light
+style=3d
+font1=Poiret One
+font2=Courier New, Courier, monospace
+color1=rgba(41, 80, 99, 1)
+color2=rgba(125, 124, 101, 1)
+color3=rgba(189, 86, 97, 1)
+color4=rgba(90, 148, 176, 1)
+color5=rgba(252, 249, 171, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(11, 22, 27, 1)

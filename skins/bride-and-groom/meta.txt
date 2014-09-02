@@ -1,0 +1,12 @@
+title=Bride and Groom
+scheme=dark
+style=3d
+font1=Playfair Display SC
+font2=Georgia, Times New Roman, Times, serif
+color1=rgba(206, 185, 196, 1)
+color2=rgba(217, 115, 135, 1)
+color3=rgba(4, 173, 191, 1)
+color4=rgba(2, 135, 166, 1)
+color5=rgba(115, 0, 66, 1)
+color6=rgba(64, 0, 37, 1)
+color7=rgba(248, 245, 247, 1)

@@ -1,0 +1,12 @@
+title=Nautical
+scheme=light
+style=flat
+font1=Crushed
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(14, 23, 42, 1)
+color2=rgba(69, 23, 26, 1)
+color3=rgba(98, 161, 137, 1)
+color4=rgba(218, 210, 108, 1)
+color5=rgba(206, 246, 243, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)
