@@ -1,0 +1,12 @@
+title=Office Table
+scheme=light
+style=3d
+font1=Federo
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(139, 85, 32, 1)
+color2=rgba(169, 80, 31, 1)
+color3=rgba(187, 88, 48, 1)
+color4=rgba(168, 113, 52, 1)
+color5=rgba(203, 123, 71, 1)
+color6=rgba(237, 209, 190, 1)
+color7=rgba(56, 34, 13, 1)

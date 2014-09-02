@@ -1,0 +1,12 @@
+title=Mallard
+scheme=light
+style=flat
+font1=Advent Pro
+font2=Courier New, Courier, monospace
+color1=rgba(99, 76, 65, 1)
+color2=rgba(166, 60, 36, 1)
+color3=rgba(86, 140, 120, 1)
+color4=rgba(104, 142, 166, 1)
+color5=rgba(122, 165, 191, 1)
+color6=rgba(225, 235, 241, 1)
+color7=rgba(37, 29, 25, 1)
