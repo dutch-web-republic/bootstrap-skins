@@ -1,0 +1,12 @@
+title=Vintage
+scheme=light
+style=flat
+font1=Cuprum
+font2=Times New Roman, Times, serif
+color1=rgba(33, 16, 7, 1)
+color2=rgba(82, 63, 52, 1)
+color3=rgba(17, 190, 204, 1)
+color4=rgba(161, 255, 212, 1)
+color5=rgba(255, 249, 163, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)

@@ -1,0 +1,12 @@
+title=Lemonade
+scheme=light
+style=3d
+font1=Ribeye
+font2=Verdana, Geneva, sans-serif
+color1=rgba(39, 86, 102, 1)
+color2=rgba(3, 127, 140, 1)
+color3=rgba(242, 159, 5, 1)
+color4=rgba(242, 203, 5, 1)
+color5=rgba(169, 212, 217, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(11, 24, 28, 1)

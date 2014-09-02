@@ -1,0 +1,12 @@
+title=Fire and Ice
+scheme=light
+style=flat
+font1=Days One
+font2=Courier New, Courier, monospace
+color1=rgba(2, 71, 89, 1)
+color2=rgba(191, 1, 2, 1)
+color3=rgba(243, 104, 26, 1)
+color4=rgba(246, 165, 65, 1)
+color5=rgba(143, 215, 243, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)

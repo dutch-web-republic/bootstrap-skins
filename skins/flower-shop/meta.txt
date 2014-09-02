@@ -1,0 +1,12 @@
+title=Flower Shop
+scheme=light
+style=flat
+font1=Indie Flower
+font2=Courier New, Courier, monospace
+color1=rgba(93, 4, 217, 1)
+color2=rgba(242, 15, 121, 1)
+color3=rgba(131, 166, 78, 1)
+color4=rgba(157, 191, 132, 1)
+color5=rgba(240, 92, 242, 1)
+color6=rgba(253, 234, 253, 1)
+color7=rgba(50, 2, 117, 1)

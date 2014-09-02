@@ -1,0 +1,12 @@
+title=Silver Falls
+scheme=light
+style=3d
+font1=Josefin Slab
+font2=Arial, Helvetica, sans-serif
+color1=rgba(56, 64, 1, 1)
+color2=rgba(1, 64, 64, 1)
+color3=rgba(70, 89, 2, 1)
+color4=rgba(110, 140, 3, 1)
+color5=rgba(88, 151, 166, 1)
+color6=rgba(188, 213, 219, 1)
+color7=rgba(0, 0, 0, 1)

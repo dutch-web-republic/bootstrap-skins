@@ -1,0 +1,12 @@
+title=Blue and Coral
+scheme=dark
+style=flat
+font1=Plaster
+font2=Courier New, Courier, monospace
+color1=rgba(56, 255, 220, 1)
+color2=rgba(255, 106, 83, 1)
+color3=rgba(100, 134, 153, 1)
+color4=rgba(0, 130, 204, 1)
+color5=rgba(204, 24, 32, 1)
+color6=rgba(158, 19, 25, 1)
+color7=rgba(158, 255, 238, 1)

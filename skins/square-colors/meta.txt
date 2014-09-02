@@ -1,0 +1,12 @@
+title=Square Colors
+scheme=light
+style=flat
+font1=Abel
+font2="Helvetica Neue", Helvetica, Arial, sans-serif
+color1=rgba(115, 2, 2, 1)
+color2=rgba(217, 142, 4, 1)
+color3=rgba(217, 181, 4, 1)
+color4=rgba(217, 203, 4, 1)
+color5=rgba(163, 191, 186, 1)
+color6=rgba(253, 254, 254, 1)
+color7=rgba(15, 0, 0, 1)

@@ -1,0 +1,12 @@
+title=Greenish
+scheme=light
+style=flat
+font1=Nobile
+font2="Helvetica Neue", Helvetica, Arial, sans-serif
+color1=rgba(27, 153, 142, 1)
+color2=rgba(98, 204, 195, 1)
+color3=rgba(204, 98, 192, 1)
+color4=rgba(148, 255, 185, 1)
+color5=rgba(255, 212, 228, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(12, 66, 62, 1)

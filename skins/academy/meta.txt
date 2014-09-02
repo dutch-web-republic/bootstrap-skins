@@ -1,0 +1,12 @@
+title=Academy
+scheme=dark
+style=3d
+font1=Patua One
+font2=Georgia, Times New Roman, Times, serif
+color1=rgba(217, 255, 51, 1)
+color2=rgba(255, 0, 255, 1)
+color3=rgba(255, 128, 0, 1)
+color4=rgba(77, 0, 237, 1)
+color5=rgba(77, 77, 77, 1)
+color6=rgba(51, 51, 51, 1)
+color7=rgba(236, 255, 153, 1)

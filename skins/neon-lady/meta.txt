@@ -1,0 +1,12 @@
+title=Neon Lady
+scheme=dark
+style=flat
+font1=Pacifico
+font2=Verdana, Geneva, sans-serif
+color1=rgba(244, 91, 133, 1)
+color2=rgba(242, 94, 139, 1)
+color3=rgba(229, 64, 142, 1)
+color4=rgba(235, 13, 151, 1)
+color5=rgba(222, 55, 123, 1)
+color6=rgba(194, 32, 98, 1)
+color7=rgba(250, 187, 204, 1)

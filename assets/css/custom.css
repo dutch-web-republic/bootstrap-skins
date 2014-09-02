@@ -1,0 +1,22 @@
+body {
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.bs-component .modal {
+	position: relative;
+	top: auto;
+	right: auto;
+	left: auto;
+	bottom: auto;
+	z-index: 1;
+	display: block;
+}
+.bs-component .modal-dialog {
+	width: 90%;
+}
+.box {
+	float:left;
+	width:20px;
+	height:20px;
+	margin:5px 10px 5px 0;
+}

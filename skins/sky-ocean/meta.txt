@@ -1,0 +1,12 @@
+title=Sky Ocean
+scheme=light
+style=3d
+font1=Comfortaa
+font2="Helvetica Neue", Helvetica, Arial, sans-serif
+color1=rgba(22, 9, 255, 1)
+color2=rgba(8, 56, 232, 1)
+color3=rgba(4, 123, 255, 1)
+color4=rgba(8, 173, 232, 1)
+color5=rgba(9, 255, 255, 1)
+color6=rgba(162, 255, 255, 1)
+color7=rgba(9, 0, 162, 1)

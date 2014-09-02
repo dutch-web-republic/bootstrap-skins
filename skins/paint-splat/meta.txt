@@ -1,0 +1,12 @@
+title=Paint Splat
+scheme=light
+style=flat
+font1=Finger Paint
+font2="Helvetica Neue", Helvetica, Arial, sans-serif
+color1=rgba(166, 20, 59, 1)
+color2=rgba(115, 92, 64, 1)
+color3=rgba(191, 52, 103, 1)
+color4=rgba(217, 164, 4, 1)
+color5=rgba(242, 203, 5, 1)
+color6=rgba(253, 235, 147, 1)
+color7=rgba(75, 9, 27, 1)

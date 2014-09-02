@@ -1,0 +1,12 @@
+title=City Lights
+scheme=light
+style=3d
+font1=Belgrano
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(13, 62, 62, 1)
+color2=rgba(242, 76, 39, 1)
+color3=rgba(242, 61, 94, 1)
+color4=rgba(255, 171, 0, 1)
+color5=rgba(62, 206, 253, 1)
+color6=rgba(213, 244, 255, 1)
+color7=rgba(0, 0, 0, 1)

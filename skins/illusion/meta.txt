@@ -1,0 +1,12 @@
+title=Illusion
+scheme=light
+style=flat
+font1=Raleway
+font2="Helvetica Neue", Helvetica, Arial, sans-serif
+color1=rgba(217, 30, 99, 1)
+color2=rgba(166, 20, 47, 1)
+color3=rgba(140, 108, 53, 1)
+color4=rgba(96, 82, 100, 1)
+color5=rgba(217, 30, 99, 1)
+color6=rgba(240, 240, 240, 1)
+color7=rgba(0, 0, 0, 1)

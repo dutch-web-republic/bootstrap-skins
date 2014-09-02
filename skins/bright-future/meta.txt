@@ -1,0 +1,12 @@
+title=Bright Future
+scheme=light
+style=flat
+font1=Yanone Kaffeesatz
+font2=Arial, Helvetica, sans-serif
+color1=rgba(2, 48, 89, 1)
+color2=rgba(26, 86, 165, 1)
+color3=rgba(247, 0, 66, 1)
+color4=rgba(242, 182, 4, 1)
+color5=rgba(242, 242, 242, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)

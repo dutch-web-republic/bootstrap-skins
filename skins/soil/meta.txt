@@ -1,0 +1,12 @@
+title=Soil
+scheme=light
+style=3d
+font1=Old Standard TT
+font2=Georgia, Times New Roman, Times, serif
+color1=rgba(69, 53, 48, 1)
+color2=rgba(84, 39, 58, 1)
+color3=rgba(191, 138, 42, 1)
+color4=rgba(161, 139, 105, 1)
+color5=rgba(237, 255, 213, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(9, 7, 6, 1)

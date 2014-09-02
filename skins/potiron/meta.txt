@@ -1,0 +1,12 @@
+title=Potiron
+scheme=dark
+style=flat
+font1=Abel
+font2="Helvetica Neue", Helvetica, Arial, sans-serif
+color1=rgba(195, 137, 35, 1)
+color2=rgba(205, 124, 37, 1)
+color3=rgba(205, 75, 37, 1)
+color4=rgba(182, 94, 42, 1)
+color5=rgba(195, 48, 35, 1)
+color6=rgba(152, 37, 27, 1)
+color7=rgba(228, 183, 104, 1)

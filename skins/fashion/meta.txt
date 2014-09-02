@@ -1,0 +1,12 @@
+title=Fashion
+scheme=light
+style=flat
+font1=Gruppo
+font2=Verdana, Geneva, sans-serif
+color1=rgba(115, 80, 60, 1)
+color2=rgba(166, 137, 111, 1)
+color3=rgba(217, 195, 169, 1)
+color4=rgba(217, 217, 217, 1)
+color5=rgba(242, 242, 242, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(48, 33, 25, 1)
