@@ -1,0 +1,12 @@
+title=Nude
+scheme=light
+style=flat
+font1=Josefin Slab
+font2=Verdana, Geneva, sans-serif
+color1=rgba(66, 45, 35, 1)
+color2=rgba(66, 59, 55, 1)
+color3=rgba(143, 97, 76, 1)
+color4=rgba(194, 132, 104, 1)
+color5=rgba(204, 181, 170, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)
