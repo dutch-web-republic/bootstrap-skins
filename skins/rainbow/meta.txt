@@ -1,0 +1,12 @@
+title=Rainbow
+scheme=light
+style=flat
+font1=Fredoka One
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(255, 0, 0, 1.00)
+color2=rgba(105, 12, 232, 1.00)
+color3=rgba(73, 184, 238, 1.00)
+color4=rgba(232, 143, 12, 1.00)
+color5=rgba(247, 255, 13, 1.00)
+color6=rgba(255, 255, 255, 1.00)
+color7=rgba(153, 0, 0, 1.00)
