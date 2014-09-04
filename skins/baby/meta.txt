@@ -1,0 +1,12 @@
+title=Baby
+scheme=light
+style=3d
+font1=Sofia
+font2=Verdana, Geneva, sans-serif
+color1=rgba(115, 166, 78, 1)
+color2=rgba(166, 140, 93, 1)
+color3=rgba(191, 115, 157, 1)
+color4=rgba(154, 181, 217, 1)
+color5=rgba(196, 217, 191, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(67, 97, 45, 1)
