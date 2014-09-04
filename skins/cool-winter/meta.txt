@@ -1,0 +1,12 @@
+title=Cool Winter
+scheme=dark
+style=flat
+font1=Oswald
+font2=Courier New, Courier, monospace
+color1=rgba(171, 231, 245, 1)
+color2=rgba(144, 195, 207, 1)
+color3=rgba(98, 132, 140, 1)
+color4=rgba(77, 103, 110, 1)
+color5=rgba(62, 84, 89, 1)
+color6=rgba(41, 56, 59, 1)
+color7=rgba(255, 255, 255, 1)
