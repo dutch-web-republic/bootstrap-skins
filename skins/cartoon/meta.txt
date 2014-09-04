@@ -1,0 +1,12 @@
+title=Cartoon
+scheme=light
+style=flat
+font1=Shadows Into Light
+font2=Courier New, Courier, monospace
+color1=rgba(0, 0, 0, 1)
+color2=rgba(69, 0, 77, 1)
+color3=rgba(179, 0, 36, 1)
+color4=rgba(184, 230, 92, 1)
+color5=rgba(255, 140, 204, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)
