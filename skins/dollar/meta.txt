@@ -1,0 +1,12 @@
+title=Dollar
+scheme=light
+style=flat
+font1=Bitter
+font2=Georgia, Times New Roman, Times, serif
+color1=rgba(92, 98, 67, 1)
+color2=rgba(147, 167, 64, 1)
+color3=rgba(140, 149, 102, 1)
+color4=rgba(199, 226, 87, 1)
+color5=rgba(212, 226, 154, 1.00)
+color6=rgba(242, 245, 231, 1.00)
+color7=rgba(35, 37, 26, 1)
