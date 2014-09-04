@@ -1,0 +1,12 @@
+title=Forbidden City
+scheme=light
+style=flat
+font1=Poiret One
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(46, 63, 93, 1)
+color2=rgba(57, 92, 62, 1)
+color3=rgba(166, 60, 38, 1)
+color4=rgba(248, 197, 106, 1)
+color5=rgba(217, 186, 166, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(12, 17, 25, 1)
