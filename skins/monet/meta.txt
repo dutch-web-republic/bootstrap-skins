@@ -1,0 +1,12 @@
+title=Monet
+scheme=light
+style=flat
+font1=Niconne
+font2=Times New Roman, Times, serif
+color1=rgba(89, 2, 2, 1)
+color2=rgba(193, 65, 66, 1)
+color3=rgba(119, 110, 173, 1)
+color4=rgba(144, 89, 190, 1)
+color5=rgba(241, 145, 216, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(0, 0, 0, 1)
