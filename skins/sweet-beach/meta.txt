@@ -1,0 +1,12 @@
+title=Sweet Beach
+scheme=light
+style=flat
+font1=Pacifico
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(193, 49, 72, 1)
+color2=rgba(164, 133, 100, 1)
+color3=rgba(145, 197, 219, 1)
+color4=rgba(152, 207, 239, 1)
+color5=rgba(242, 209, 161, 1)
+color6=rgba(255, 255, 255, 1)
+color7=rgba(112, 28, 42, 1)
