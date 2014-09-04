@@ -1,0 +1,12 @@
+title=Dark Delight
+scheme=dark
+style=3d
+font1=Kotta One
+font2=Helvetica Neue, Helvetica, Arial, sans-serif
+color1=rgba(255, 223, 184, 1.00)
+color2=rgba(217, 198, 176, 1.00)
+color3=rgba(166, 158, 148, 1)
+color4=rgba(115, 32, 62, 1.00)
+color5=rgba(186, 23, 80, 1.00)
+color6=rgba(0, 0, 0, 1)
+color7=rgba(255, 255, 255, 1)
